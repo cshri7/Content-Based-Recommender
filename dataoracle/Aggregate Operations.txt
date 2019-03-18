@@ -1,0 +1,1 @@
+Aggregate Operations iterate over collections on your behalf, which enable you to write more concise and efficient code that process elements stored in collections.

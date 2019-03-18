@@ -1,0 +1,1 @@
+Isolating Locale-Specific Data shows how to dynamically access objects that vary with Locale.

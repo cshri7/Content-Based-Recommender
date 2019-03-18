@@ -1,0 +1,1 @@
+Printing teaches you how to render 2D graphics to a printer, print complex documents, and use Print Services.

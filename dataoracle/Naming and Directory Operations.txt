@@ -1,0 +1,1 @@
+Naming and Directory Operations Describes various naming and directory operations and demonstrates them through plenty of examples that access naming/directory services using JNDI.

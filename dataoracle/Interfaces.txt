@@ -1,0 +1,1 @@
+Interfaces describes the core collection interfaces, which are the heart and soulof the Java Collections Framework.  You'll learn general guidelines foreffective use of these interfaces, including when to use which interface.You'll also learn idioms for each interface that will help you get the mostout of the interfaces.

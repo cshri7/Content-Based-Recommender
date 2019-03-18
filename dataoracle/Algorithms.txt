@@ -1,0 +1,1 @@
+Algorithms describes the polymorphic algorithms provided by the JDK to operateon collections.  With any luck you'll never have to write your own sortroutine again!

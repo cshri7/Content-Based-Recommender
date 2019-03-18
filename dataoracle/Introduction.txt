@@ -1,0 +1,1 @@
+Introduction defines the term internationalization, gives a quick sample program, and provides a checklist you can use to internationalize an existing program.

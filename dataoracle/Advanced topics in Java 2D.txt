@@ -1,0 +1,1 @@
+Advanced topics in Java 2D explains how to perform transformations, clip the drawing region, composite overlapping graphics, specify rendering preferences, and control rendering quality.

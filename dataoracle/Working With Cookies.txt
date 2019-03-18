@@ -1,0 +1,1 @@
+Working With Cookies discusses how cookies are used to create a session between a client and server, and how you can take advantage of cookies in your HTTP URL connections.

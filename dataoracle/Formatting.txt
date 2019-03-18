@@ -1,0 +1,1 @@
+Formatting explains how to format numbers, dates, and text messages according to Locale, and how to create customized formats with patterns.

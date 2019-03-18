@@ -1,0 +1,1 @@
+A bunch of statements can be placed in braces to be executed as a single block. Such a block of statements can be namedor be provided with a condition for execution. Below is how you'd place a series of statements in a block. Code section 3.7: A statement block.1 {2     int a = 10;3     int b = 20;4     int result = a + b;5 }

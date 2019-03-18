@@ -1,0 +1,1 @@
+Numbers and Strings This lesson describes how to use Number and String objects The lesson also shows you how to format data for output.

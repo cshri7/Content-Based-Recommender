@@ -1,0 +1,1 @@
+Setting the Locale explains how to create and how to use Locale objects.

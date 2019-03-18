@@ -1,0 +1,1 @@
+byte is a keyword which designatesthe 8 bit signed integer primitive type. The java.lang.Byte class is the nominalwrapper class when you need to store a byte valuebut an object reference is required. Syntax: byte <variable-name> = <integer-value>; For example: byte b = 65; or  byte b = 'A'  The number 65 is the code for 'A' in ASCII. See also:  Java Programming/Primitive Types

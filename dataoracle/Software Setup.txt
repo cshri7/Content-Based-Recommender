@@ -1,0 +1,1 @@
+Software Setup Describes instructions and steps involved in setting an environment that is required to run the examples described in this trail as well as any other JNDI application.

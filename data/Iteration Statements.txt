@@ -1,0 +1,1 @@
+Iteration Statements are statements that are used to iterate a block of statements. Such statements are often referredto as loops. Java offers four kinds of iterative statements. The while loop The do...while loop The for loop The foreach loop

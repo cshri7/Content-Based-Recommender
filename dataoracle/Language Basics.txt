@@ -1,0 +1,1 @@
+Language Basics describes the traditional features of the language, including variables, arrays, data types, operators, and control flow.

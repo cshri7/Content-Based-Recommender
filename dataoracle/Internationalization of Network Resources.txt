@@ -1,0 +1,1 @@
+Internationalization of Network Resources explains how to provide internationalization for IDN's.

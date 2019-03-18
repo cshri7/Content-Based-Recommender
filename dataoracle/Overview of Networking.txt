@@ -1,0 +1,1 @@
+Overview of Networking has two sections. The first describes the networking capabilities of the Java platform that you may already be using without realizing that you are using the network. The second provides a brief overview of networking to familiarize you with terms and concepts that you should understand before reading how to use URLs, sockets, and datagrams.

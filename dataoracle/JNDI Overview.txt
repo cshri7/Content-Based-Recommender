@@ -1,0 +1,1 @@
+JNDI Overview Gives you an overview of JNDI, its architecture and packaging.

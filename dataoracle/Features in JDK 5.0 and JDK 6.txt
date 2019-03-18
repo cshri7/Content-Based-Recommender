@@ -1,0 +1,1 @@
+Features in JDK 5.0 and JDK 6 Introduces to the features in the JNDI and the LDAP Service Provider that are available in JDK 5.0 and JDK 6.

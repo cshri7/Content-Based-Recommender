@@ -1,0 +1,1 @@
+All About Datagrams takes you step by step through a simple client/server example that uses datagrams to communicate. It then challenges you to rewrite the example using multicast socket instead.

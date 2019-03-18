@@ -1,0 +1,1 @@
+Getting Started with Swing is a quick start lesson. First it gives you a bit of background about Swing. Then it tells you how to compile and run programs that use Swing components.

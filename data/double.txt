@@ -1,0 +1,1 @@
+double is a keyword which designatesthe 64 bit float primitive type. The java.lang.Double class is the nominal wrapper class when you need to store a double value but an object reference is required. Syntax: double <variable-name> = <float-value>; For example: double d = 65.55; See also:  Java Programming/Primitive Types

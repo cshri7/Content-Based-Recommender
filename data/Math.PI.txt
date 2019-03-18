@@ -1,0 +1,1 @@
+The Math.PI constant represents the value of pi, the ratio of a circle's circumference to its diameter. Code section 3.21: Math.PI1 public static final double PI = 3.141592653589793;

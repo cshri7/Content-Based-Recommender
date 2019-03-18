@@ -1,0 +1,1 @@
+float is a keyword which designates the 32 bit float primitive type. The java.lang.Float class is the nominal wrapper class when you need to store a float value but an object reference is required. Syntax: float <variable-name> = <float-value>; For example: float price = 49.95; See also:  Java Programming/Primitive Types

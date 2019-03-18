@@ -1,0 +1,1 @@
+Reflection is a new concept in Java, and did not exist in classical compiled languages like C, and C++. The idea is to discover an object's attributes and its methods programmatically.

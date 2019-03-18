@@ -1,0 +1,1 @@
+Programmatic Access to Network Parameters explains why you might want to access network interface parameters and how to do so. It gives examples of how to list all the IP addresses assigned to the machine as well as other useful information such as whether the interface is running.

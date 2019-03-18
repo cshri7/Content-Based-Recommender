@@ -1,0 +1,1 @@
+There are a number of exciting new languages being created that also compile to Java byte code, such as Groovy. GNATThe GNU Ada-Compiler, is capable of compiling Ada into Java-style bytecode.ftp://cs.nyu.edu/pub/gnat JPythonCompiles Python to Java-style bytecode.http://www.jpython.org/ KawaCompiles Scheme to Java-style bytecode.http://www.gnu.org/software/kawa/

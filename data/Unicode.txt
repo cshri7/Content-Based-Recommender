@@ -1,0 +1,1 @@
+Most Java program text consists of ASCII characters, but any Unicode character can be used as part of identifier names, in comments, and in character and string literals. For example,  (which is the Greek Lowercase Letter pi) is a valid Java identifier: Code section 3.100: Pi.1 double  = Math.PI; and in a string literal: Code section 3.101: Pi literal.1 String pi = "";

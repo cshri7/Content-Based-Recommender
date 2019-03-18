@@ -1,0 +1,1 @@
+Working with Images explains how to create a BufferedImage object, perform image-filtering operations, and draw on an image.

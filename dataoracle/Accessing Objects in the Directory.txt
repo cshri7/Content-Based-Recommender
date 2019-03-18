@@ -1,0 +1,1 @@
+Accessing Objects in the Directory Shows you how to integrate your application with the directory, so that you can store and retrieve Java objects to and from the directory.

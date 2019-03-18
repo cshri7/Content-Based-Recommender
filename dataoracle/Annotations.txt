@@ -1,0 +1,1 @@
+Annotations are a form of metadata and provide information for the compiler. This lesson describes where and how to use annotations in a program effectively.

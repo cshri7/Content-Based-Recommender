@@ -1,0 +1,1 @@
+Packages are a feature of the Java programming language that help you to organize and structure your classes and their relationships to one another.

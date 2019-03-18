@@ -1,0 +1,1 @@
+Generics are a powerful feature of the Java programming language. They improve the type safety of your code, making more of your bugs detectable at compile time.

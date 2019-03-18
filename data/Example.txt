@@ -1,0 +1,1 @@
+Consider the following Java code.  outer: for (int i = 2; i < 1000; i++) {  for (int j = 2; j < i; j++) {    if (i % j == 0)      continue outer;  }  System.out.println (i); } A Java compiler might translate the Java code above into byte code as follows, assuming the above was put in a method:

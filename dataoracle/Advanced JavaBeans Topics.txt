@@ -1,0 +1,1 @@
+Advanced JavaBeans Topics covers bean persistence, long term persistence, and customization.

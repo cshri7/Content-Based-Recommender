@@ -1,0 +1,1 @@
+Writing to the screen is very easy, and can be accomplished using one of two methods: Code section 9.1: Print "Hello world" without advancing to a new lineSystem.out.print("Hello world");Output on the screenHello worldCode section 9.2: Print "Hello world" and advance to a new lineSystem.out.println("Hello world");Output on the screenHello world

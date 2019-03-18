@@ -1,0 +1,1 @@
+long is a keyword which designates the 64 bit signed integer primitive type. The java.lang.Long class is the nominal wrapper class when you need to store a long value but an object reference is required. Syntax: long <variable-name> = <integer-value>; For example: long timestamp = 1269898201; See also:  Java Programming/Primitive Types

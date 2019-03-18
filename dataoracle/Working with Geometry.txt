@@ -1,0 +1,1 @@
+Working with Geometry teaches you how to use APIs to draw graphic primitives and arbitrary shapes, and how to apply fancy strokes and fill styles.

@@ -1,0 +1,1 @@
+continue is a Java keyword. It skips the remainder of the loop and continues with the next iteration.  For example: int maxLoopIter = 7;for (int i = 0; i < maxLoopIter; i++ ) {   if (i == 5) {      continue;  // -- 5 iteration is skipped --   }   System.println("Iteration = " + i);} results in 0123467 Java Programming/Statements
